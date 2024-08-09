@@ -41,13 +41,13 @@ When you run the application, you will see the following options:
     Register: Register a new account if you are not already registered.
 
 Example
-Welcome to TechBank
-1. Login
-2. Check Balance
-3. Withdraw
-4. Deposit
-5. Exit
-6. Not Registered? (Register)
+   Welcome to TechBank
+   1. Login
+   2. Check Balance
+   3. Withdraw
+   4. Deposit
+   5. Exit
+   6. Not Registered? (Register)
 
 Enter operation from above choices: 1
 Enter registered username: john_doe
@@ -66,45 +66,6 @@ Error Handling
     If login fails, you will be prompted to try again.
     For invalid options, you will be notified to choose a valid option.
 
-Here’s a README file in Markdown for your Java console-based application:
-
-markdown
-
-# TechBank Console Application
-
-Welcome to TechBank, a console-based banking application written in Java. This application allows users to register, log in, deposit, withdraw, check their balance, and exit the application.
-
-## Features
-
-- **User Registration**: Allows new users to create an account with a username and password.
-- **User Login**: Enables users to log in with their registered credentials.
-- **Deposit Funds**: Users can deposit money into their account.
-- **Withdraw Funds**: Users can withdraw money from their account.
-- **Check Balance**: Users can check their current account balance.
-- **Exit Application**: Closes the application.
-
-## Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-
-### Files
-
-- `users.txt`: Stores user credentials in the format `username,password`.
-- `balances.txt`: Stores user balances in the format `username,balance`.
-
-### Running the Application
-
-1. **Compile the Program**:
-   ```bash
-   javac Main.java
-
-    Run the Program:
-
-    bash
-
-    java Main
 
 Usage
 
