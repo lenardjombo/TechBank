@@ -50,14 +50,21 @@ Example
    6. Not Registered? (Register)
 
 Enter operation from above choices: 1
+
 Enter registered username: john_doe
+
 Enter your password: password123
+
 User Logged in successfully! 😀
 
 Enter operation from above choices: 4
+
 Enter username to deposit: john_doe
+
 Enter amount to deposit: 100.00
+
 Deposit made successfully 😀
+
 New Balance is 100.00
 
 Error Handling
@@ -67,39 +74,7 @@ Error Handling
     For invalid options, you will be notified to choose a valid option.
 
 
-Usage
 
-When you run the application, you will see the following options:
-
-    Login: Enter your username and password to log in.
-    Check Balance: Enter your username to view your current balance.
-    Withdraw: Enter your username and the amount to withdraw.
-    Deposit: Enter your username and the amount to deposit.
-    Exit: Close the application.
-    Register: Register a new account if you are not already registered.
-
-Example
-
-plaintext
-
-Welcome to TechBank
-1. Login
-2. Check Balance
-3. Withdraw
-4. Deposit
-5. Exit
-6. Not Registered? (Register)
-
-Enter operation from above choices: 1
-Enter registered username: john_doe
-Enter your password: password123
-User Logged in successfully! 😀
-
-Enter operation from above choices: 4
-Enter username to deposit: john_doe
-Enter amount to deposit: 100.00
-Deposit made successfully 😀
-New Balance is 100.00
 
 Error Handling
 
